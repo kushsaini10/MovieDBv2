@@ -3,10 +3,10 @@
 
 ### Screenshots
 
-![Home Screen](Screenshot_1.png)
+![Home Screen](Screenshot_1.png "Home Screen")
 
-![Details Screen 1](Screenshot_2.png)
+![Details Screen 1](Screenshot_2.png "Details Screen 1")
 
-![Details Screen 2](Screenshot_3.png)
+![Details Screen 2](Screenshot_3.png "Details Screen 2")
 
-![Details Screen 3](Screenshot_4.png)
+![Details Screen 3](Screenshot_4.png "Details Screen 3")
